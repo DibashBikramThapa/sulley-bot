@@ -5,6 +5,7 @@ import './assets/css/index.css'
 import Header from './Components/Header/Header';
 import HeroSection from './Components/HeroSection/HeroSection';
 import TradeInfo from './Components/TradeInfo/TradeInfo';
+import BotInfo from './Components/BotInfo/BotInfo';
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <HeroSection/>
       <TradeInfo/>
+      <BotInfo/>
     </div>
   );
 }
