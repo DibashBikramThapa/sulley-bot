@@ -4,6 +4,7 @@ import './assets/css/index.css'
 
 import Header from './Components/Header/Header';
 import HeroSection from './Components/HeroSection/HeroSection';
+import TradeInfo from './Components/TradeInfo/TradeInfo';
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <div className="container mx-auto p-5">
       <Header/>
       <HeroSection/>
+      <TradeInfo/>
     </div>
   );
 }
