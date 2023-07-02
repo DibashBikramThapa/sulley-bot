@@ -12,21 +12,21 @@ function TradeInfo() {
                     <h3 className='text-6xl font-bold text-white'>
                         TRADE
                     </h3>
-                    <h3 className='text-6xl font-bold text-white'> 
+                    <h3 className='text-6xl font-bold text-white'>
                         DIRECTLY ON
                     </h3>
                     <h3 className='text-6xl font-bold text-white'>
                         TELEGRAM
                     </h3>
                     <div className='description text-white mt-6 text-1xl'>
-                        Maestro aims to provide a suite of crypto-related tools for Telegram users. 
-                        Through our revolutionary multi-chain (BSC + ETH) sulley bot, smooth wallet 
-                        tracker, and proactive whale bot, our vision is to create an ecosystem that 
-                        satisfies crypto enthusiast needs directly on Telegram, the flagship crypto 
+                        Maestro aims to provide a suite of crypto-related tools for Telegram users.
+                        Through our revolutionary multi-chain (BSC + ETH) sulley bot, smooth wallet
+                        tracker, and proactive whale bot, our vision is to create an ecosystem that
+                        satisfies crypto enthusiast needs directly on Telegram, the flagship crypto
                         platform.
                     </div>
                 </div>
-                <div className='flex lg:justify-end justify-center'>
+                <div className='flex lg:justify-end justify-center animate-[wiggle_1s_ease-in-out_infinite]'>
                     <img src={'./tradeinfo.png'} className='trade-img'/>
                 </div>
             </div>

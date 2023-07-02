@@ -6,6 +6,7 @@ import Header from './Components/Header/Header';
 import HeroSection from './Components/HeroSection/HeroSection';
 import TradeInfo from './Components/TradeInfo/TradeInfo';
 import BotInfo from './Components/BotInfo/BotInfo';
+import Footer from './Components/Footer/Footer';
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <HeroSection/>
       <TradeInfo/>
       <BotInfo/>
+      <Footer/>
     </div>
   );
 }

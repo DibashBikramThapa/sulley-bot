@@ -25,7 +25,7 @@ function BotInfo() {
                         <h3 className='hover:text-amber-300'>ACCESSIBLE ON ANY DEVICE THAT SUPPORTS TELEGRAM - COMPUTERS, PHONES, TABLETS, YOU NAME IT!</h3>
                     </div>
                 </div>
-                <div className='flex lg:justify-end justify-center'>
+                <div className='flex lg:justify-end justify-center animate-[zoomInOut_2s_ease-in-out_infinite]'>
                     <img src={'./botinfo.png'} className='trade-img' />
                 </div>
             </div>
