@@ -9,13 +9,13 @@ function TradeInfo() {
         </div>
             <div className='lg:columns-2 '>
                 <div  className='mt-12'>
-                    <h3 className='text-6xl font-bold text-white'>
+                    <h3 className='lg:text-6xl text-3xl font-bold text-white'>
                         TRADE
                     </h3>
-                    <h3 className='text-6xl font-bold text-white'>
+                    <h3 className='lg:text-6xl text-3xl font-bold text-white'>
                         DIRECTLY ON
                     </h3>
-                    <h3 className='text-6xl font-bold text-white'>
+                    <h3 className='lg:text-6xl text-3xl font-bold text-white'>
                         TELEGRAM
                     </h3>
                     <div className='description text-white mt-6 text-1xl'>

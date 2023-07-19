@@ -8,14 +8,14 @@ function BotInfo() {
             </div>
             <div className='lg:columns-2 '>
                 <div className='mt-12'>
-                    <h3 className='text-6xl font-bold text-white'>
+                    <h3 className='lg:text-6xl text-4xl font-bold text-white'>
                         Sulley BOT
                     </h3>
                     <h3 className='font-bold text-amber-300 mt-4'>
                         NO NEED TO SETUP YOUR OWN NODES <br />
                         WE DO ALL THE HEAVYLIFTING FOR YOU
                     </h3>
-                    <div className='description text-white mt-3 text-1xl gap-y-3 grid'>
+                    <div className='description text-white mt-3 text-1xl md:gap-y-3 sm:gap-1 grid'>
                         <h3 className='hover:text-amber-300'>LIGHTNING FAST (BSC, ETH, ARB, & SRG) TELEGRAM Sulley BOT</h3>
                         <h3 className='hover:text-amber-300'>EASY LIQUIDITY, LAUNCH, AND METHOD SNIPING</h3>
                         <h3 className='hover:text-amber-300'>TRADING TERMINAL WITH HIGH-END FUNCTIONS</h3>
